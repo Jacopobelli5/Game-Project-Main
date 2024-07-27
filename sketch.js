@@ -31,7 +31,7 @@ function draw() {
   cameraPosx = gameChar_x - width /2;
 
   // DRAW THE SKY
-  background(200, 155, 255);
+  background(200, 105, 255);
 
   // DRAW THE GROUND
   noStroke();
